@@ -1,0 +1,6 @@
+target/
+
+# Ignore Emacs related files
+*~
+.ensime
+.ensime_cache/
